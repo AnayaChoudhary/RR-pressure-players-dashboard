@@ -1,0 +1,176 @@
+{
+ "bat": [
+  {
+   "name": "Reeza Hendricks",
+   "status": "Unattached",
+   "balls": 233,
+   "sr": 159.2,
+   "bnd": 23.2,
+   "dot": 29.2,
+   "pos": 2
+  },
+  {
+   "name": "Pathum Nissanka",
+   "status": "DC released",
+   "balls": 556,
+   "sr": 149.1,
+   "bnd": 21.2,
+   "dot": 35.3,
+   "pos": 1
+  },
+  {
+   "name": "Glenn Maxwell",
+   "status": "Unattached",
+   "balls": 240,
+   "sr": 148.8,
+   "bnd": 22.5,
+   "dot": 39.6,
+   "pos": 4
+  },
+  {
+   "name": "Bhanuka Rajapaksa",
+   "status": "Unattached",
+   "balls": 130,
+   "sr": 144.6,
+   "bnd": 20.8,
+   "dot": 36.9,
+   "pos": 5
+  },
+  {
+   "name": "Kusal Mendis",
+   "status": "Unattached",
+   "balls": 343,
+   "sr": 134.4,
+   "bnd": 19.0,
+   "dot": 36.2,
+   "pos": 2
+  },
+  {
+   "name": "Rachin Ravindra",
+   "status": "KKR released",
+   "balls": 139,
+   "sr": 149.6,
+   "bnd": 21.6,
+   "dot": 33.1,
+   "pos": 2
+  },
+  {
+   "name": "Jacob Bethell",
+   "status": "RCB released",
+   "balls": 144,
+   "sr": 140.3,
+   "bnd": 20.1,
+   "dot": 35.4,
+   "pos": 4
+  },
+  {
+   "name": "Kamindu Mendis",
+   "status": "SRH released",
+   "balls": 184,
+   "sr": 140.2,
+   "bnd": 16.8,
+   "dot": 33.7,
+   "pos": 5
+  },
+  {
+   "name": "Shimron Hetmyer",
+   "status": "RR released",
+   "balls": 256,
+   "sr": 149.6,
+   "bnd": 19.5,
+   "dot": 35.9,
+   "pos": 5
+  },
+  {
+   "name": "Rahul Tripathi",
+   "status": "KKR released",
+   "balls": 231,
+   "sr": 141.1,
+   "bnd": 20.8,
+   "dot": 39.4,
+   "pos": 3
+  }
+ ],
+ "bow": [
+  {
+   "name": "Sikandar Raza",
+   "status": "Unattached",
+   "balls": 184,
+   "econ": 6.26,
+   "wk4": 1.3,
+   "dot": 35.4
+  },
+  {
+   "name": "Mujeeb Ur Rahman",
+   "status": "Unattached",
+   "balls": 260,
+   "econ": 7.48,
+   "wk4": 1.57,
+   "dot": 42.7
+  },
+  {
+   "name": "Matheesha Pathirana",
+   "status": "KKR released",
+   "balls": 490,
+   "econ": 8.95,
+   "wk4": 2.3,
+   "dot": 35.2
+  },
+  {
+   "name": "Wanindu Hasaranga",
+   "status": "LSG released",
+   "balls": 432,
+   "econ": 8.53,
+   "wk4": 2.11,
+   "dot": 34.2
+  },
+  {
+   "name": "Maheesh Theekshana",
+   "status": "Unattached",
+   "balls": 578,
+   "econ": 7.35,
+   "wk4": 1.37,
+   "dot": 35.8
+  },
+  {
+   "name": "Gerald Coetzee",
+   "status": "SRH released",
+   "balls": 181,
+   "econ": 8.49,
+   "wk4": 2.12,
+   "dot": 35.7
+  },
+  {
+   "name": "Joshua Little",
+   "status": "Unattached",
+   "balls": 234,
+   "econ": 8.85,
+   "wk4": 2.15,
+   "dot": 31.6
+  },
+  {
+   "name": "Reece Topley",
+   "status": "Unattached",
+   "balls": 274,
+   "econ": 8.74,
+   "wk4": 1.75,
+   "dot": 37.4
+  },
+  {
+   "name": "FazalHaq Farooqi",
+   "status": "Unattached",
+   "balls": 526,
+   "econ": 8.5,
+   "wk4": 1.32,
+   "dot": 36.6
+  },
+  {
+   "name": "Trent Boult",
+   "status": "MI released",
+   "balls": 621,
+   "econ": 8.91,
+   "wk4": 1.58,
+   "dot": 38.7
+  }
+ ]
+}
